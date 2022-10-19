@@ -1,5 +1,5 @@
 # Singleton ou Prototype? 
-abaixo trecho da documentação copiada de <href="https://docs.spring.io/spring-framework/docs/5.0.0.M1/spring-framework-reference/htmlsingle/#beans-factory-scopes-singleton">
+abaixo trecho da documentação copiada de https://docs.spring.io/spring-framework/docs/5.0.0.M1/spring-framework-reference/htmlsingle/#beans-factory-scopes-singleton
 
 - Conceito de Scope
 - Configurando objeto Singleton
