@@ -1,5 +1,7 @@
 # Properties @Value
 
+copiado do artigo no site: https://www.baeldung.com/spring-value-annotation
+
 
 ## Properties File
 Properties files are used to keep ‘N’ number of properties in a single file to run the application in a different environment. In Spring Boot, properties are kept in the application.properties file under the classpath.
